@@ -14,7 +14,7 @@
 # n es el índice politropico
 # mu_e es la composicion quimica
 # num es el numero al que quieres dividir el paso para calcular el error numerico
-# nombre_imagen pues eso, el nombre de la imagen que quieres poner
+# nombre_imagen el nombre de la imagen que quieres poner
 
 # IMPORTANTE: no pongas fracciones en el indice politropico, pon numero con decimal, con fracciones puede no funcionar
 
