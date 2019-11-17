@@ -1,4 +1,4 @@
-# Estructura1
+# Modelos estelares simples
 Trabajo de Estructura y evolución estelar. Modelos estelares simples.
 
 
