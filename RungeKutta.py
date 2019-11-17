@@ -6,6 +6,20 @@
 
 # Este codigo pretende resolver un sistema de DOS ecuaciones por el metodo de Runge-Kutta 
 
+# =====================================================================
+
+# Manera de ejecutar el codigo: python RungeKutta.py h n mu_e rho_c num nombre_imagen
+
+# donde h es el paso de integracion
+# n es el índice politropico
+# mu_e es la composicion quimica
+# num es el numero al que quieres dividir el paso para calcular el error numerico
+# nombre_imagen pues eso, el nombre de la imagen que quieres poner
+
+# IMPORTANTE: no pongas fracciones en el indice politropico, pon numero con decimal, con fracciones puede no funcionar
+
+# ======================================================================
+
 import numpy as np
 import matplotlib.pyplot as plt
 import sys
